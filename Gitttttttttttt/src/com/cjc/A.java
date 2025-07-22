@@ -19,6 +19,10 @@ public class A
 	{
 		System.out.println("This is substraction method");
 	}
+	public void equall()
+	{
+		System.out.println("This is equall method");
+	}
 	
 	
 
