@@ -23,6 +23,10 @@ public class A
 	{
 		System.out.println("This is equall method");
 	}
+	public void same()
+	{
+		System.out.println("This is same method")
+			}		
 	
 	
 
